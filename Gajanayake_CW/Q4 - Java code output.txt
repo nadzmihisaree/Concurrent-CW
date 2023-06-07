@@ -1,0 +1,69 @@
+"D:\Program Files\Java\jdk1.8.0_281\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2022.2.3\lib\idea_rt.jar=53998:C:\Program Files\JetBrains\IntelliJ IDEA 2022.2.3\bin" -Dfile.encoding=UTF-8 -classpath "D:\Program Files\Java\jdk1.8.0_281\jre\lib\charsets.jar;D:\Program Files\Java\jdk1.8.0_281\jre\lib\deploy.jar;D:\Program Files\Java\jdk1.8.0_281\jre\lib\ext\access-bridge-64.jar;D:\Program Files\Java\jdk1.8.0_281\jre\lib\ext\cldrdata.jar;D:\Program Files\Java\jdk1.8.0_281\jre\lib\ext\dnsns.jar;D:\Program Files\Java\jdk1.8.0_281\jre\lib\ext\jaccess.jar;D:\Program Files\Java\jdk1.8.0_281\jre\lib\ext\jfxrt.jar;D:\Program Files\Java\jdk1.8.0_281\jre\lib\ext\localedata.jar;D:\Program Files\Java\jdk1.8.0_281\jre\lib\ext\nashorn.jar;D:\Program Files\Java\jdk1.8.0_281\jre\lib\ext\sunec.jar;D:\Program Files\Java\jdk1.8.0_281\jre\lib\ext\sunjce_provider.jar;D:\Program Files\Java\jdk1.8.0_281\jre\lib\ext\sunmscapi.jar;D:\Program Files\Java\jdk1.8.0_281\jre\lib\ext\sunpkcs11.jar;D:\Program Files\Java\jdk1.8.0_281\jre\lib\ext\zipfs.jar;D:\Program Files\Java\jdk1.8.0_281\jre\lib\javaws.jar;D:\Program Files\Java\jdk1.8.0_281\jre\lib\jce.jar;D:\Program Files\Java\jdk1.8.0_281\jre\lib\jfr.jar;D:\Program Files\Java\jdk1.8.0_281\jre\lib\jfxswt.jar;D:\Program Files\Java\jdk1.8.0_281\jre\lib\jsse.jar;D:\Program Files\Java\jdk1.8.0_281\jre\lib\management-agent.jar;D:\Program Files\Java\jdk1.8.0_281\jre\lib\plugin.jar;D:\Program Files\Java\jdk1.8.0_281\jre\lib\resources.jar;D:\Program Files\Java\jdk1.8.0_281\jre\lib\rt.jar;D:\4th year\Concurrent\cw\CW_20191258\out\production\CW_20191258" PrintingSystem
+
+==================================================
+                LASER PRINTER                   
+=================================================
+
+LaserPrinter : 
+ * Printer Name = UOW Printer
+ * Current Paper Level = 10
+ * Current Toner Level = 10
+ * Printed Document Count = 0}
+=================================================
+
+
++ + + Need to refill the printer with a sheet pack. + + +
++ + + Successfully added a sheet pack. Current paper level is 60 + + +
+No need to replace the toner cartridge now. Current toner level is 10
+[-----Successfully printed the document. Current toner level : 8 Current Paper Level : 58-----]
+Minimum toner level reached. Current toner level is 8
+Minimum toner level reached. Current toner level is 8
+Minimum toner level reached. Current toner level is 8
++ + + Need to refill the printer with a sheet pack. + + +
++ + + Successfully added a sheet pack. Current paper level is 108 + + +
+Minimum toner level reached. Current toner level is 8
+Minimum toner level reached. Current toner level is 8
+Minimum toner level reached. Current toner level is 8
+* * * Need to replace the toner cartridge. Current toner level is 8. Replacing the toner cartridge... * * *
+* * * Successfully replaced the toner cartridge. Current toner level after replacing the toner cartridge is 500 * * * 
+[-----Successfully printed the document. Current toner level : 498 Current Paper Level : 106-----]
+[-----Successfully printed the document. Current toner level : 496 Current Paper Level : 104-----]
+[-----Successfully printed the document. Current toner level : 494 Current Paper Level : 102-----]
+[-----Successfully printed the document. Current toner level : 484 Current Paper Level : 92-----]
+[-----Successfully printed the document. Current toner level : 474 Current Paper Level : 82-----]
+No need to replace the toner cartridge now. Current toner level is 474
+[-----Successfully printed the document. Current toner level : 464 Current Paper Level : 72-----]
+[-----Successfully printed the document. Current toner level : 459 Current Paper Level : 67-----]
++ + + Need to refill the printer with a sheet pack. + + +
++ + + Successfully added a sheet pack. Current paper level is 117 + + +
+[-----Successfully printed the document. Current toner level : 449 Current Paper Level : 107-----]
+[-----Successfully printed the document. Current toner level : 444 Current Paper Level : 102-----]
+[-----Successfully printed the document. Current toner level : 439 Current Paper Level : 97-----]
+Paper Technician Finished, packs of paper used: 3
+[-----Successfully printed the document. Current toner level : 431 Current Paper Level : 89-----]
+[-----Successfully printed the document. Current toner level : 423 Current Paper Level : 81-----]
+[-----Successfully printed the document. Current toner level : 415 Current Paper Level : 73-----]
+Toner Technician Finished, cartridges replaced: 1
+[-----Successfully printed the document. Current toner level : 410 Current Paper Level : 68-----]
+[-----Successfully printed the document. Current toner level : 400 Current Paper Level : 58-----]
+[-----Successfully printed the document. Current toner level : 390 Current Paper Level : 48-----]
+[-----Successfully printed the document. Current toner level : 380 Current Paper Level : 38-----]
+	Student 4 Finished Printing: 5 Documents, 35 pages
+	Student 3 Finished Printing: 5 Documents, 35 pages
+[-----Successfully printed the document. Current toner level : 372 Current Paper Level : 30-----]
+	Student 2 Finished Printing: 5 Documents, 35 pages
+[-----Successfully printed the document. Current toner level : 362 Current Paper Level : 20-----]
+	Student 1 Finished Printing: 5 Documents, 35 pages
+
+All tasks completed. Printing printer status...
+
+==================================================
+                PRINTER SUMMARY                  
+=================================================
+LaserPrinter : 
+ * Printer Name = UOW Printer
+ * Current Paper Level = 20
+ * Current Toner Level = 362
+ * Printed Document Count = 20}
+
+Process finished with exit code 0
